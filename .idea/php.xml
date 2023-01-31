@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/composer" />
+      <path value="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/symfony/console" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/coding-assignment-baby-bird-master/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
